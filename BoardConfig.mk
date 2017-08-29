@@ -23,7 +23,7 @@ AUDIO_FEATURE_ENABLED_MULTI_VOICE_SESSIONS := true
 AUDIO_FEATURE_SAMSUNG_DUAL_SIM := true
 
 # Kernel
-TARGET_KERNEL_CONFIG := lineage_klteduos_defconfig
+TARGET_KERNEL_CONFIG := mokee_klteduos_defconfig
 
 # Init
 TARGET_INIT_VENDOR_LIB := libinit_msm8974
